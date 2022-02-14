@@ -3,9 +3,9 @@
 <repository name='&quot;Z3 Plugin Update Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1644846733262'/>
+    <property name='p2.timestamp' value='1644846899021'/>
   </properties>
-  <children size='15'>
+  <children size='16'>
     <child location='z3-plugin_4.5.0'/>
     <child location='z3-plugin_4.6.0'/>
     <child location='z3-plugin_4.7.1'/>
@@ -21,5 +21,6 @@
     <child location='z3-plugin_4.8.11'/>
     <child location='z3-plugin_4.8.12'/>
     <child location='z3-plugin_4.8.13'/>
+    <child location='z3-plugin_4.8.14'/>
   </children>
 </repository>
